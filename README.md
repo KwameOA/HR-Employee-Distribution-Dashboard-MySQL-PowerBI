@@ -13,26 +13,23 @@ Data Visualization - PowerBI
                       QUESTIONS
 
 1.	What is the gender breakdown of employees in the company?
-2.	There are more employees in the company.
-3.	What is the race/ethnicity breakdown of employees in the company?
-    The White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
+2.	What is the race/ethnicity breakdown of employees in the company?
+3.	What is the age distribution of employees in the company?
+4.	How many employees work at headquarters versus remote locations?
+5.	What is the average length of employment for employees who have been terminated?
+6.	How does the gender distribution vary across departments and job titles?
+7.	What is the distribution of job titles across the company?
+8.	Which department has the highest turnover rate?
+9.	What is the distribution of employees across locations by state?
+10.	How has the company's employee count changed over time based on hire and term dates?
+11.	What is the tenure distribution for each department?
 
-4.	What is the age distribution of employees in the company?
-    The youngest employee is 22 years old and the oldest is 59 years old.
+                INSIGHTS
+   	
+1.	There are more employees in the company.
+2.	The White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
+3.	The youngest employee is 22 years old and the oldest is 59 years old.
+4.	The majority (13,107) work at the headquarters whereas 4,375 work remotely.
+5.  The average length of employment is around 8 years.
+6.	The gender distribution across departments and job titles shows that the majority of employees are male, holding the highest numbers in almost every position, followed by females, with non-conforming individuals being the least represented. Research and Development as well as Marketing had higher females than males.
 
-5.	How many employees work at headquarters versus remote locations?
-    Majority (13,107) work at the headquarters where as 4,375 work remotely.
-
-6.	What is the average length of employment for employees who have been terminated?
-    The average length of employment is around 8 years.
-
-7.	How does the gender distribution vary across departments and job titles?
-    The gender distribution across departments and job titles shows that the majority of employees are male, holding the highest numbers       in almost every position, followed by females, with non-conforming individuals being the least represented. Research and Development       as well as Marketing had higher females than males. 
-
-8.	What is the distribution of job titles across the company?
-9.	Which department has the highest turnover rate?
-10.	What is the distribution of employees across locations by state?
-11.	How has the company's employee count changed over time based on hire and term dates?
-12.	What is the tenure distribution for each department?
-
-              INSIGHTS
