@@ -35,3 +35,4 @@ Data Visualization - PowerBI
 11.	How has the company's employee count changed over time based on hire and term dates?
 12.	What is the tenure distribution for each department?
 
+              INSIGHTS
